@@ -1,0 +1,8 @@
+Choosen area - Stavanger/Sandnes, Norway
+OSM file has been downloaded from https://mapzen.com/data/metro-extracts/ for Stavanger, Norway (locality)
+Last 2 years I have lived in Sandnes city in Rogaland county, Norway. Sandnes lies nearby Stavanger which is the 4th largest city in Norway. Because of proximity Stavanger/Sandnes became the third largest urban area in Norway. 
+This area is used in this project.
+Folder contains file "Stavanger_Norway.osm"
+You can also find it by link: https://s3.amazonaws.com/mapzen.odes/ex_tqUhBUGdpRNfiQaKBxY954xmAHYxS.osm.bz2
+
+
